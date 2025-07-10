@@ -15,12 +15,12 @@ A simple and responsive web-based weather application that provides real-time we
 - RapidAPI (WeatherAPI endpoint)
 
 ## 🔗 Live Demo
-Hosted on Vercel: [Click here to view](## 🌐 Live Demo
+Hosted on Vercel: [Click here to view]
 
 Click the link below to view the deployed Weather App on Vercel:
 
-👉 [Live Site on Vercel](https://vercel.com/kowshik9849s-projects?repo=https://github.com/Kowshik9849/wheather-app)
-)
+👉 [Live Site on Vercel](https://wheather-app-i3zu.vercel.app/)
+
 
 ## 📸 Screenshot
 ![screenshot](screenshot.png) <!-- Optional: replace with your actual image file if you upload one -->
