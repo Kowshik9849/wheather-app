@@ -23,7 +23,7 @@ Click the link below to view the deployed Weather App on Vercel:
 
 
 ## 📸 Screenshot
-![screenshot](https://github.com/Kowshik9849/wheather-app/blob/main/Screenshot%202025-07-10%20170606.png) <!-- Optional: replace with your actual image file if you upload one -->
+![screenshot](https://github.com/Kowshik9849/wheather-app/blob/main/Screenshot%202025-07-10%20171022.png) <!-- Optional: replace with your actual image file if you upload one -->
 
 ## 📁 Project Structure
 # wheather-app
