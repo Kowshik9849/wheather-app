@@ -15,7 +15,6 @@ A simple and responsive web-based weather application that provides real-time we
 - RapidAPI (WeatherAPI endpoint)
 
 ## 🔗 Live Demo
-Hosted on Vercel: [Click here to view]
 
 Click the link below to view the deployed Weather App on Vercel:
 
